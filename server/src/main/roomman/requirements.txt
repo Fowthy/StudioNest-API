@@ -12,3 +12,5 @@ flower
 boto3 
 python-multipart
 azure-storage-blob
+h11>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
