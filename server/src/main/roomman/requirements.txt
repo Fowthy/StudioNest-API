@@ -12,3 +12,4 @@ flower
 boto3 
 python-multipart
 azure-storage-blob
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
