@@ -12,3 +12,4 @@ flower
 boto3 
 python-multipart
 azure-storage-blob
+starlette>=0.47.2 # not directly required, pinned by Snyk to avoid a vulnerability
