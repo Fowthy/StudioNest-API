@@ -13,3 +13,4 @@ motor
 aiofiles
 python-multipart
 boto3
+starlette>=0.47.2 # not directly required, pinned by Snyk to avoid a vulnerability
